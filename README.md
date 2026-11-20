@@ -109,6 +109,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ## Non-Web Embeddings
 
 - [WASI - The WebAssembly System Interface](https://wasi.dev/)
+- [eccles-wasm](https://github.com) - Zero-heap C99 WebAssembly runtime for microcontrollers with deny-by-default hardware sandboxing.
 - [wasm3 - The fastest WebAssembly interpreter (x86, x64, ARM, MIPS, Xtensa)](https://github.com/wasm3/wasm3)
 - [fizzy - Fast, deterministic, and pedantic WebAssembly interpreter written in clean C++17](https://github.com/wasmx/fizzy)
 - [wamr - WebAssembly Micro Runtime (WAMR) is an AOT/JIT/interpreter focusing on small footprint](https://github.com/bytecodealliance/wasm-micro-runtime)
